@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502238361070",
+    "firebase_url": "https://recipelogger.firebaseio.com",
+    "project_id": "recipelogger",
+    "storage_bucket": "recipelogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502238361070:android:b0ebc775af08ac16ce4aff",
+        "android_client_info": {
+          "package_name": "com.gamet.recipelogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502238361070-fd75l17hdviavn71a5h7b0082jnu7o3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAAhAKkejiYjKFa7iExLOJaJRUzTgmY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502238361070-fd75l17hdviavn71a5h7b0082jnu7o3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
