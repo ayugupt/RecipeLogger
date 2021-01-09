@@ -1,16 +1,4 @@
-# app
+# Recipe Logger
 
-A new Flutter project.
+This is a fully functioning application made using flutter which allows users to make logs of their dish. They can keep records of all their attempts at making a dish and rate it for future reference. Users can also make their own custom units for cooking. For example, a user can make a spoon they have as a unit for making dishes. They can also capture a image for it, so that they never forget it. All the data is stored locally on the device.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
